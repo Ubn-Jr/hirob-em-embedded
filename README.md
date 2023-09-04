@@ -14,9 +14,10 @@
 
 
 # Step By Step
-- >
-- >
-- >
+- >PCB kartı için kullanılan mikroişlemci ile devre komponentlerinin kodsal bağlantısı (motor sürücü, motor, encoder)
+- >Hirob hareket mekaniğinin belirlenmesi (ileri, geri, sağ, sol hareketlerinin programlanması)
+motor encoder sayacının istenen harekete göre programlanması
+- >Devre komponentlerinin güç kaynağı ile uyumunun test edilmesi ve diğer takımlara geri bildirim verilmesi
 
 
 

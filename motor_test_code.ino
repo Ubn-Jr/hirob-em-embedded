@@ -1,4 +1,4 @@
-//BASİC MOTOR CONTROLL
+//BASIC MOTOR CONTROLL
 #define MotFwd  35
 #define MotRev  34
 #define MotFwdL  23

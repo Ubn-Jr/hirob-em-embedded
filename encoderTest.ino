@@ -2,8 +2,8 @@
 #define MotRevL  22
 
 
-const int encoderPin1A = 27;  // Encoder pin A
-const int encoderPin1B = 26;  // Encoder pin B
+const int encoderPin1A = 14;  // Encoder pin A
+const int encoderPin1B = 12;  // Encoder pin B
 
 
 volatile long encoder1Value = 0;

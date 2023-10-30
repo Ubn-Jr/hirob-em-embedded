@@ -67,7 +67,7 @@ void setup() {
     bleSecurity.setKeySize(16);
     bleSecurity.setInitEncryptionKey(ESP_BLE_ENC_KEY_MASK | ESP_BLE_ID_KEY_MASK);
     bleSecurity.setRespEncryptionKey(ESP_BLE_ENC_KEY_MASK | ESP_BLE_ID_KEY_MASK);
-    //bleSecurity.setAuthenticationMode(new esp_ble_auth_req_t);  bunun ne işe yaradığını araştır 
+    //bleSecurity.setAuthenticationMode(new esp_ble_auth_req_t);  
 
     // BLEAdvertising *pAdvertising = pServer->getAdvertising();  // this still is working for backward compatibility
     BLEAdvertising *pAdvertising = BLEDevice::getAdvertising();
